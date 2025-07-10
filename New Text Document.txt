@@ -1,1 +1,5 @@
 Hellow 
+
+Unstage (exiting file) ---->
+					Stage Area ------> Commit (Push ready)
+Untracked  ----/
